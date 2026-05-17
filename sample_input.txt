@@ -1,0 +1,3 @@
+Operating systems manage processes and threads. Threads can make programs faster.
+Processes use resources, and operating systems schedule processes to use the CPU.
+The CPU runs processes, and scheduling helps the system stay responsive.

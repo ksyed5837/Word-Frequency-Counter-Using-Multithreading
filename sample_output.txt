@@ -1,0 +1,62 @@
+Total words found: 34
+Number of segments/threads: 3
+
+Intermediate count from Thread 1:
+  and: 1
+  can: 1
+  faster: 1
+  make: 1
+  manage: 1
+  operating: 1
+  processes: 2
+  programs: 1
+  systems: 1
+  threads: 2
+
+Intermediate count from Thread 2:
+  and: 1
+  cpu: 1
+  operating: 1
+  processes: 1
+  resources: 1
+  schedule: 1
+  systems: 1
+  the: 2
+  to: 1
+  use: 2
+
+Intermediate count from Thread 3:
+  and: 1
+  cpu: 1
+  helps: 1
+  processes: 1
+  responsive: 1
+  runs: 1
+  scheduling: 1
+  stay: 1
+  system: 1
+  the: 1
+
+Final consolidated word frequency count:
+  and: 3
+  can: 1
+  cpu: 2
+  faster: 1
+  helps: 1
+  make: 1
+  manage: 1
+  operating: 2
+  processes: 4
+  programs: 1
+  resources: 1
+  responsive: 1
+  runs: 1
+  schedule: 1
+  scheduling: 1
+  stay: 1
+  system: 1
+  systems: 2
+  the: 3
+  threads: 2
+  to: 1
+  use: 2
